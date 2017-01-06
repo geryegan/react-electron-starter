@@ -1,0 +1,12 @@
+{
+    "extends": "rallycoding",
+    "rules": {
+        "linebreak-style": [
+            "error",
+            "windows"
+        ]
+    },
+    "globals": {
+        "window": true
+    }
+}
